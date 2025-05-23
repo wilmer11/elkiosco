@@ -1,0 +1,65 @@
+*, 
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    font-size: 100%;
+    list-style-type: none;
+    background: #efe7dc;
+}
+
+.container {
+    max-width: 1080px;
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    padding-inline: 3rem;
+    box-shadow: 0 3px 6px #00000029;
+    background-image: url(../img/textura.webp);
+    background-repeat: repeat;
+}
+
+.container h1 {
+    color: #703f30;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.container h2 {
+    color: #f58322;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.container .w-60 p {
+    font-size: 26px;
+    color: #703f30;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+
+.container .content-info {
+    display: flex;
+}
+
+.container .w-60 {
+    width: 60%;
+}
+
+.displayBlockPlato {
+    display: block;
+}
+
+.displayNonePlato {
+    display: none;
+}
+
+.activeBtn {
+    color: red;
+}

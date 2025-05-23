@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombrePlato": "Pollo al horno",
+    "img1": "/elkiosco/img/textura.webp",
+    "img2": "/elkiosco/img/",
+    "img3": "/elkiosco/img/",
+    "clase": "displayBlockPlato"
+  },
+  {
+    "id": 2,
+    "nombrePlato": "Cuchuco cogote de marrano",
+    "img1": "/elkiosco/img/whatsapp-brands.svg",
+    "img2": "/elkiosco/img/",
+    "img3": "/elkiosco/img/",
+    "clase": "displayBlockPlato"
+  },
+  {
+    "id": 3,
+    "nombrePlato": "Sobrebarriga en salsa",
+    "img1": "/elkiosco/img/",
+    "img2": "/elkiosco/img/",
+    "img3": "/elkiosco/img/",
+    "clase": "displayBlockPlato"
+  },
+  {
+    "id": 4,
+    "nombrePlato": "Servido de panceta",
+    "img1": "/elkiosco/img/",
+    "img2": "/elkiosco/img/",
+    "img3": "/elkiosco/img/",
+    "clase": "displayBlockPlato"
+  },
+  {
+    "id": 5,
+    "nombrePlato": "Sancocho de gallina",
+    "img1": "/elkiosco/img/",
+    "img2": "/elkiosco/img/",
+    "img3": "/elkiosco/img/",
+    "clase": "displayBlockPlato"
+  }
+]
